@@ -1,0 +1,78 @@
+body {
+ background-image: url("images/sfondoIndex.jpg");   
+ justify-content: center;
+ display: flex;
+ margin-top: 10%;
+
+}
+   #login {
+    width:450px;
+    border:1px solid black;
+    height:280px;
+    background-color:#fff;
+    border-radius:25px;
+    }
+    
+   #titolologin{
+    height:25px;
+    width:425px;
+    float:left;
+    padding:20px 0 15px 25px;
+    font-size:30px;
+    border-radius:25px 25px 0 0;
+    background-color: rgb(199, 111, 28); 
+   }
+   
+   #register{
+    margin-right:90px;
+}
+    
+   .button {
+    width:125px;
+    height:35px;
+    color:#fff;
+    font-size:20px;
+    border:1px solid #fff;
+    background-color:rgb(199, 111, 28); 
+    }
+    
+   
+    .button:hover {
+        border: 2px solid black ;
+    }
+
+
+   .formlogin{
+    margin:75px 50px 50px 50px;
+    margin-top:75px;
+    }
+   
+   .testo {
+    height:30px;
+    width:350px;
+    margin-bottom:15px;    
+    padding:5px;
+}
+.formregister{
+    margin:45px 40px 40px 40px;
+    margin-top:75px;
+    }
+   
+
+ label {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     
+ }
+
+ #containerRegister {
+    width:450px;
+    border:1px solid black;
+    height:570px;
+    background-color:#fff;
+    border-radius:25px;
+    }
+
+   
+
